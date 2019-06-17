@@ -69,7 +69,6 @@ MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
 String myId = '';
 
 BannerAd myBanner = BannerAd(
-  // Replace the testAdUnitId with an ad unit id from the AdMob dash.
   // https://developers.google.com/admob/android/test-ads
   // https://developers.google.com/admob/ios/test-ads
 
