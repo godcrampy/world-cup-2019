@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "909895507765",
+    "firebase_url": "https://godcrampy-world-cup.firebaseio.com",
+    "project_id": "godcrampy-world-cup",
+    "storage_bucket": "godcrampy-world-cup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909895507765:android:f9f5aa91660287b6",
+        "android_client_info": {
+          "package_name": "com.godcrampy.world_cup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909895507765-aupkke9coalctfimrlbvqq6dm9v024ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDOsXWNy9NgZNnLMR9wE-1uCuAR-6aCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909895507765-aupkke9coalctfimrlbvqq6dm9v024ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1831836139264063~7080055383"
+    }
+  ],
+  "configuration_version": "1"
+}
