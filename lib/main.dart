@@ -65,7 +65,8 @@ class MyAppState extends State<MyApp> {
 MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
     keywords: <String>['cricket', 'apps', 'world cup', '2019', 'icc']);
 
-String myId = 'ca-app-pub-1831836139264063/7828308075';
+//Insert your unit id below
+String myId = '';
 
 BannerAd myBanner = BannerAd(
   // Replace the testAdUnitId with an ad unit id from the AdMob dash.
